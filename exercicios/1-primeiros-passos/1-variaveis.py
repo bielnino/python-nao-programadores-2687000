@@ -5,7 +5,16 @@
 
 # Declare variáveis do tipo string
 
+nome = 'Gabriel'
+print (nome)
+
 # Declare variáveis de cada tipo numérico
 
+Idade = 24
+Peso = 88.4
+print (Numero)
 
 # Declare uma variável do tipo booleano
+
+Verdadeiro = True
+Falso = False
